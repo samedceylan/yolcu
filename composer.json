@@ -1,0 +1,20 @@
+{
+    "name": "tkaratug/yolcu",
+    "description": "This is Yolcu Package",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Turan Karatug",
+            "email": "tkaratug@hotmail.com.tr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tkaratug\\Yolcu\\": "src/"
+        }
+    }
+}
+
